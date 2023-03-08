@@ -5,7 +5,7 @@
 - 当年的课程作业和实验
 - 当年本人原创的、和课程不怎么直接相关的，但是对学习有间接帮助文档
 
-本仓库将在Github、Gitee和中国科学技术大学Gitlug平台同步。第二部分将持续维护。Github和Gitlug的issue可能不怎么看，如有需要建议联系本人邮箱：2352135769@qq.com
+本仓库将在[Github](https://github.com/KZ25T/2022ics)、[Gitee](https://gitee.com/KZ25T/2022ics)和中国科学技术大学[Gitlug平台](https://git.lug.ustc.edu.cn/CA/2022ics)同步。第二部分将持续维护。Github和Gitlug的issue可能不怎么看，如有需要建议联系本人邮箱：2352135769@qq.com
 
 ## 版权声明
 
