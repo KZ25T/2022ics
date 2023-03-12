@@ -28,7 +28,7 @@
 
 ## 文档内容列表
 
-1. Markdown 使用（[链接](1.markdown_use_guide/README.md)）
+1. Markdown 使用（[链接](1.markdown_use_guide/README.md)）（注：该文档在gitee里好像被和谐了，可以查看[gitlug](https://git.lug.ustc.edu.cn/CA/2022ics/-/blob/master/documents/1.markdown_use_guide/README.md)）
 
    **文档内容** 该文档讲述基于 VSCode 如何写出简单的 Markdown 文档，可以用来写实验报告等。也涉及少量 Typora 内容。
 
