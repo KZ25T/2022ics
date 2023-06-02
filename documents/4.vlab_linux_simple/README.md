@@ -9,3 +9,5 @@
 [Vlab 的使用和 ssh 连接](3.Vlab.md)
 
 [大作业VSCode调试方法](4.labAS_debug.md)
+
+[Linux 操作系统的安装（新）](5.linux-install.md)
